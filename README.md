@@ -6,12 +6,12 @@
 Proyecto Nautilus contiene una aplicacion cliente-servidor del tipo MVC(model-view-controller) via http y consta de dos partes:
 
 * **_servidor backend desarrolado en Node.JS v14.4.0 y MongoDB_**
-* **_cliente frontend desarrollado con Ionic framework_** 
+* **_cliente frontend desarrollado con Ionic Framework_** 
 
 
 El servidor-backend node esta alojado en la carpeta raiz, y el cliente-frontend Ionic reside en la carpeta "frontend"
 
-El directorio "/www" contiene el cliente compilado(Ionic build)  y es la carpeta raiz al navegar a la url del proyecto.
+El directorio "/www" contiene el cliente compilado (Ionic build) y es la carpeta raiz al navegar a la url del proyecto.
 
 Descripcion mas detallada disponible en futuras versiones.
 
